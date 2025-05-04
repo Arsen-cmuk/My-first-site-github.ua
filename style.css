@@ -1,0 +1,58 @@
+.test {
+    text-align: center;
+    border-radius: 15px;
+    width: 98.8%;
+    height: 20%;
+    top: 5px;
+    position: absolute;
+    text-align: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 0 px;
+    font-weight: bold;
+    color: blanchedalmond;
+    transform: translateX(-0%);
+    animation: myAnim 2s ease 0ms 1 normal forwards;
+     text-shadow:
+    1px 1px 0 #000,
+    2px 2px 0 #000,
+    3px 3px 0 #000,
+    4px 4px 0 #000;
+}
+        }
+
+    
+.test3 {
+    position: absolute;
+    top: 20px;
+    left: 30%;
+    transform: translateX(-20);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-size: 30px;
+   
+}
+
+.square {
+    width: 1340px;
+    height: 100px;
+    background-color: goldenrod;
+    border-radius: 50px;
+    border: 4px solid black;
+    z-index: -1;
+}
+
+.tato {
+    width: 100px;
+    height: 100px;
+}
+
+.dido {
+    top: 15px;
+    
+}
+
+.body {
+    background: linear-gradient(117deg, #ff0000 0%, #800f0f 100%);
+}
+
